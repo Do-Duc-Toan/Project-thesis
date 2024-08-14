@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Line follower/Core/Inc/rc522.h&apos;" deleteContents="false" description="Delete resource &apos;Line follower/Core/Inc/rc522.h&apos;" element1="/Line follower/Core/Inc/rc522.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1720447482448"/>&#x0A;<refactoring comment="Delete resource &apos;Line follower/Core/Src/rc522.c&apos;" deleteContents="false" description="Delete resource &apos;Line follower/Core/Src/rc522.c&apos;" element1="/Line follower/Core/Src/rc522.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1720447485858"/>
+</session>
