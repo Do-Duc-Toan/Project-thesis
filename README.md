@@ -20,7 +20,7 @@
 + The file ***agv_controller*** is just a file to test the data sending/receiving process from simulator. You can also manually type some command to control the simulator (type 1 to control the agv 1, ...)
 
 **III. Run the simulator**
-+ You can change the initial positions of 3 agvs in the last cell of the file `afv_simulator.ipynb` : 
++ You can change the initial positions of 3 agvs in the last cell of the file `agv_simulator.ipynb` : 
   + `car_initial_config_data = [ 
             {'id': 1, 'start_node': 7, 'color': 'red'},
             {'id': 2, 'start_node': 17, 'color': 'blue'},
