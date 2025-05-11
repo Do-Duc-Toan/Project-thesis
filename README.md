@@ -28,7 +28,7 @@
         ]`
 
 + Run the simulator (simply click the **Run All** button on the top)
-+ Check whehter the data is transmitted successfully (in *Command Prompt* or the Terminal of the *file agv_controller.py*). If not, check your broker address (IP adress) and your topics again.
++ Check whether the data is transmitted successfully (in *Command Prompt* or the Terminal of the *file agv_controller.py*). If not, check your broker address (IP adress) and your topics again.
 
 
 
