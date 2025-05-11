@@ -16,7 +16,7 @@
 **II. Activate your MQTT broker**
 + Change your server address in the files named ***agv_simulator.ipynb*** (cell 3, line 16) and ***agv_controller.py*** (if necessary)
 + You can change your topics in file ***agv_mqtt.py*** (in the `class AGVMQTTClient`)
-+ Open the Command Prompt, change the directory to `C:\Program Files\mosquitto>` then enter this command `mosquitto_sub -h localhost -t "agvdata/#" -v` (change the topic tailored with your system). This command is used to track the data sent from the simulator
++ Open the Command Prompt, change the directory to `C:\Program Files\mosquitto>` then enter this command `mosquitto_sub -h localhost -t "agv_data/#" -v` (change the topic tailored with your system). This command is used to track the data sent from the simulator
 + The file ***agv_controller*** is just a file to test the data sending/receiving process from simulator. You can also manually type some command to control the simulator (type 1 to control the agv 1, ...)
 
 **III. Run the simulator**
